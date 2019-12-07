@@ -19,13 +19,13 @@ The last attribute "Revenue" is used for metrics only and not for the classifica
 
 ### Program
 
-The online_shopping_clustering.ipynb program can be executed in Jupiter notebook. The dataset online_shoppers_intention.csv should be present in the same directory as the nba_ml.ipynb code.
+The online_shopping_clustering.ipynb program can be executed in Jupiter notebook.
 
 ### Performance metrics
 
 The metrics for the evaluation of the classification are:
 
-Rand Index (RI https://en.wikipedia.org/wiki/Rand_index). The range of RI is between zero and one and the bigger value is considered    to be a better in terms of clustering. 
+Rand Index (RI https://en.wikipedia.org/wiki/Rand_index). The range of RI is between zero and one and the bigger value is considered to be a better in terms of clustering. 
 
 Davies-Bouldin Index (DBI https://en.wikipedia.org/wiki/Davies%E2%80%93Bouldin_index). The range of DBI is between zero and infinity and the lower value is considered to be better in terms of clustering. 
 
